@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Snapshots</string>
+    <string name="home_title">Inicio</string>
+    <string name="home_add">Crear</string>
+    <string name="home_profile">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description">Descripción de la foto</string>
+    <string name="image_button_delete_description">Icono del botón de borrar imagen</string>
+    <string name="add_button_post">Publicar</string>
+    <string name="post_message_title">Selecciona una imagen</string>
+    <string name="post_message_valid_title">Añade un título</string>
+    <string name="main_auth_wellcome">Bienvenido</string>
+    <string name="fragment_profile_close_session">Cerrar Sesión</string>
+    <string name="main_auth_sign_out">Hasta pronto!</string>
+    <string name="add_title_photo_hint">Título de la instantánea</string>
+</resources>
